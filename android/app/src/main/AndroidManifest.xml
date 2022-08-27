@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.netflix_clone">
    <application
-        android:label="netflix_clone"
+        android:label="Netflix Clone"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
